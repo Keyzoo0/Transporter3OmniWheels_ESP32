@@ -1,0 +1,26 @@
+LIST KOMPONEN ELEKTRIK TRANSPORTER
+- Cetak PCB double layer		1x	(32.500) Pakai uang EEPROM dulu
+- Chip ESP32				1x	(40.000) Pakai uang EEPROM dulu
+- Driver Motor TB6612FNG Module		2x	(62.000) Pakai uang EEPROM dulu
+- IC AMS1117 3.3V			1x	( 1.500)
+- Dioda smd SS34			1x	( 1.000)
+- Stepdown MP1584			1x	(15.000)
+- Terminal Block screw biru 2 pin	4x	( 4.000)
+- Saklar Geser kecil 3 pin		1x	( 1.000)
+- Tactile Switch Button 2 pin		1x	(   750)
+- Kapasitor Elko 220uF 16V		3x	( 1.500)
+- Kapasitor Elko   1uF 16V		2x	( 1.000)
+- Kapasitor smd 1206 0.1uF	1set (5pcs)	( 1.000)
+- Resistor  smd 1206   10k	1set (5pcs)	( 1.000)
+- Resistor  smd 1206    1k	1set (5pcs)	( 1.000)
+- Resistor  smd 1206   220	1set (5pcs)	( 1.000)
+- Led SMD 1206			1set (5pcs) 	( 2.000)
+- Transistor SMD S8050			2x	( 1.500)
+- LCD 16x2 I2C				1x	(35.000)
+- Micro Servo MG90S			1x	(20.000)
+- Motor DC Kuning			1x	(15.000)
+- Pin Header male L 1x40		1x	( 2.500)
+- Pin Header female 1x40		1x	( 2.000)
+
+
+Tb6612fng motors(2, 14, 12, 13, 27, 26, 25);
